@@ -1,10 +1,10 @@
 # Week 6: Basic Rails Models
 
 ##### Required
-- By Monday
+- By Monday 3/16
   - Read the [Odin Project Active Records Basics](http://www.theodinproject.com/ruby-on-rails/active-record-basics) overview. 
   - [Complete Module #2, Rails Models](http://www.codelearn.org/ruby-on-rails-tutorial/introducing-models-create-migrate-rollback-destroy) on Codelearn. 
-- By Thursday
+- By Thursday 3/19
   - [Do Rails tutorial chapter 6](https://www.railstutorial.org/book/modeling_users#top)
     - Complete this individually.
     - Pick up where you left off on chapter 5 last week.
