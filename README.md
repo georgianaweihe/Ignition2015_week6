@@ -6,6 +6,7 @@
 - [Do Rails tutorial chapter 6](https://www.railstutorial.org/book/modeling_users#top)
 
 ##### Optional
+- Do the [exercises](https://www.railstutorial.org/book/modeling_users#sec-modeling_users_exercises) in RailsTutorial chapter 6.
 - Setup your `sample_app` on [CodeClimate](https://codeclimate.com/) to get an automated code review.  What is your GPA?
 - Do the `WordCount` exercise on [Exercism.io](exercism.io) and look at other people's `Bob` submissions.
 - Read the Rails Guide on [Active Model Basics](http://guides.rubyonrails.org/active_model_basics.html)
