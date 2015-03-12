@@ -4,6 +4,9 @@
 - Read the [Odin Project Active Records Basics](http://www.theodinproject.com/ruby-on-rails/active-record-basics) overview. 
 - [Complete Module #2, Rails Models](http://www.codelearn.org/ruby-on-rails-tutorial/introducing-models-create-migrate-rollback-destroy) on Codelearn. 
 - [Do Rails tutorial chapter 6](https://www.railstutorial.org/book/modeling_users#top)
+  - Complete this individually.
+  - Pick up where you left off on chapter 5 last week.
+  - If you worked on your partner's repo last week, fork theirs to do it on your own for this week.
 
 ##### Optional
 - Do the [exercises](https://www.railstutorial.org/book/modeling_users#sec-modeling_users_exercises) in RailsTutorial chapter 6.
