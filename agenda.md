@@ -10,4 +10,4 @@
 - Weekly skit courtesy of Jack on Rails Models
 
 ##### Monday
-- 
+- Fabio to explain submitting assignments
