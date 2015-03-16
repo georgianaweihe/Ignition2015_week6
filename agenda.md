@@ -8,3 +8,6 @@
 - Overview local dev env
 - Course overview/layout
 - Weekly skit courtesy of Jack on Rails Models
+
+##### Monday
+- 
