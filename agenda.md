@@ -10,4 +10,7 @@
 - Weekly skit courtesy of Jack on Rails Models
 
 ##### Monday
-- Fabio to explain submitting assignments
+- Fabio SQL/ORM
+- Kelton to explain submitting assignments
+- Luke show new stuff in references
+- Additional office hours?
